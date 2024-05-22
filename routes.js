@@ -49,6 +49,6 @@ const routes =[
     }
 ]
 
-//menambah
+//menambah/
 
 module.exports = routes;
